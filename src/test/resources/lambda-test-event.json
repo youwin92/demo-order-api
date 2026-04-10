@@ -1,0 +1,8 @@
+{
+  "orderId": "ORD-2026-0001",
+  "customerName": "홍길동",
+  "productName": "무선 키보드",
+  "quantity": 2,
+  "totalPrice": 89000,
+  "status": "PENDING"
+}
